@@ -12,7 +12,6 @@ import org.mockito.MockitoAnnotations;
 import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;
 import org.springframework.http.ResponseEntity;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
-
 import static junit.framework.TestCase.assertEquals;
 import static org.mockito.Mockito.verify;
 import static org.mockito.Mockito.when;
